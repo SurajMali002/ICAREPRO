@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "number3",
+    "slug": "snack-496a54a0-4503-4f18-be25-9b52f17be423",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.surajmali.snack-496a54a0-4503-4f18-be25-9b52f17be423"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.surajmali.snack496a54a045034f18be259b52f17be423"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
